@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "OCR-A";
+  src: url(https://ixpeering.dl.sourceforge.net/project/ocr-a-font/OCR-A/1.0/OCRA.ttf?viasf=1);
+}
+body {
+  font-family: "OCR-A";
+}
